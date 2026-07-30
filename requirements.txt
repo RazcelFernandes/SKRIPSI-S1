@@ -3,6 +3,3 @@ scikit-learn
 pandas
 numpy
 joblib
-
-
-python -m streamlit run app.py
