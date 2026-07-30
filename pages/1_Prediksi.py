@@ -17,9 +17,9 @@ set_background()
 # LOAD MODEL
 # ==============================
 
-svm = joblib.load("model\\svm_model.pkl")
-rf = joblib.load("model\\rf_model.pkl")
-scaler = joblib.load("model\\scaler.pkl")
+svm = joblib.load("model/svm_model.pkl")
+rf = joblib.load("model/rf_model.pkl")
+scaler = joblib.load("model/scaler.pkl")
 
 
 # ==============================
